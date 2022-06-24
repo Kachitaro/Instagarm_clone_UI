@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "13098330041",
+    "project_id": "insta-mid",
+    "storage_bucket": "insta-mid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13098330041:android:09736f8b624f27db82b868",
+        "android_client_info": {
+          "package_name": "com.example.instagram_mid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13098330041-1vfco98apknc09adelqqbkfbtcc69mu5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.instagram_mid",
+            "certificate_hash": "4f971f458e1711e5c808200571e56224937c9d83"
+          }
+        },
+        {
+          "client_id": "13098330041-ctikc3r8c9mv9c407n6v40ftj202qmqt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHc8Y-8Xwjgmsiz5l4fSzKx6RBS_agVlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13098330041-ctikc3r8c9mv9c407n6v40ftj202qmqt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
